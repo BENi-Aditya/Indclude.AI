@@ -4,6 +4,11 @@
 
 <p align="center" style="font-size: 1.2em;">Real-time translation of sign language gestures into English text using computer vision and deep learning.</p>
 
+<!-- Add GIF -->
+<p align="center">
+    <img src="working.gif" alt="Sign Language Translator in Action" width="500"/>
+</p>
+
 ---
 
 <h2 style="color: #f39c12;">Tech Stack</h2>
@@ -90,4 +95,3 @@
 </ul>
 
 ---
-
